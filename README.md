@@ -12,3 +12,7 @@ git clone https://github.com/abdulatif-abdumannopov/golang-websocket-chat
 ```env
 JWT_SECRET_KEY=<Your Secret Key>
 ```
+# RUN your project with command
+```console
+go run main.go
+```
